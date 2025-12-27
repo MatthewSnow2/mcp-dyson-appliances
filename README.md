@@ -1,4 +1,4 @@
-# Dyson MCP Server
+# mcp-dyson-appliances
 
 An MCP (Model Context Protocol) server for controlling Dyson air purifiers and fans.
 
@@ -28,7 +28,7 @@ An MCP (Model Context Protocol) server for controlling Dyson air purifiers and f
 ## Installation
 
 ```bash
-cd dyson-mcp
+cd mcp-dyson-appliances
 npm install
 npm run build
 ```

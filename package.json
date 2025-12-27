@@ -1,5 +1,5 @@
 {
-  "name": "dyson-mcp",
+  "name": "mcp-dyson-appliances",
   "version": "1.0.0",
   "description": "MCP server for controlling Dyson air purifiers and fans",
   "main": "dist/index.js",
